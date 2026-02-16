@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-Insight-driven CX and lifecycle specialist with 10+ years across international communication, customer experience and behavioural analysis.  
+Insight-driven CRM and Lifecycle specialist with 7+ years across international communication, customer experience and behavioural analysis.  
 Currently expanding my analytical capabilities with Data Science & AI (Python, SQL, ML, NLP).
 
 I like transforming customer signals into clarity, and clarity into better journeys.
@@ -40,9 +40,7 @@ I like transforming customer signals into clarity, and clarity into better journ
 
 ## 📌 Featured Repositories  
 
-- 🔹 [customer-churn-insights](#) – *In progress*  
-- 🔹 [customer-feedback-nlp-themes](#) – *In progress*  
-- 🔹 [customer-journey-diagnostics](#) – *In progress*  
+- 🔹 [B2B Lead Scoring Analytics](https://github.com/clairedebadts-cloud/b2b-lead-scoring-analytics/)  
 - 🔹 [communication-clarity-tool](#) – *In progress*  
 
 ---
