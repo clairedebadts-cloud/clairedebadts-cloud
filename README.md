@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-Insight-driven CRM and Lifecycle specialist with 7+ years across international communication, customer experience and behavioural analysis.  
+Insight-driven CRM and Lifecycle specialist with 10+ years across international marketing, customer experience and behavioural analysis.  
 Currently expanding my analytical capabilities with Data Science & AI (Python, SQL, ML, NLP).
 
 I like transforming customer signals into clarity, and clarity into better journeys.
@@ -38,10 +38,12 @@ I like transforming customer signals into clarity, and clarity into better journ
 
 ---
 
-## 📌 Featured Repositories  
-
-- 🔹 [B2B Lead Scoring Analytics](https://github.com/clairedebadts-cloud/b2b-lead-scoring-analytics/)  
-- 🔹 [communication-clarity-tool](#) – *In progress*  
+## 📌 Featured Repositories
+- 🔹 [Customer Churn in Telecom](https://github.com/clairedebadts-cloud/Customer-Churn-in-Telecom) – Kaggle S6E3 · churn prediction & behavioural segmentation
+- 🔹 [B2B Lead Scoring Analytics](https://github.com/clairedebadts-cloud/b2b-lead-scoring-analytics) – lead scoring model & pipeline analytics
+- 🔹 [Customer Journey Diagnostics](https://github.com/clairedebadts-cloud/customer-journey-diagnostics) – GA4 drop-off analysis & funnel diagnostics
+- 🔹 [Heart Disease Playground](https://github.com/clairedebadts-cloud/heart-disease-playground) – Kaggle · fairness-aware modeling, bias detection
+- 🔹 [CRM Campaign Monitor](https://github.com/clairedebadts-cloud/crm-monitor) – CleverTap intelligence dashboard · anomaly detection & recommendations 
 
 ---
 
