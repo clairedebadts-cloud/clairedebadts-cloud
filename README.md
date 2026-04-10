@@ -43,7 +43,7 @@ I like transforming customer signals into clarity, and clarity into better journ
 - 🔹 [B2B Lead Scoring Analytics](https://github.com/clairedebadts-cloud/b2b-lead-scoring-analytics) – lead scoring model & pipeline analytics
 - 🔹 [Customer Journey Diagnostics](https://github.com/clairedebadts-cloud/customer-journey-diagnostics) – GA4 drop-off analysis & funnel diagnostics
 - 🔹 [Heart Disease Playground](https://github.com/clairedebadts-cloud/heart-disease-playground) – Kaggle · fairness-aware modeling, bias detection
-- 🔹 [CRM Campaign Monitor](https://github.com/clairedebadts-cloud/crm-monitor) – CleverTap intelligence dashboard · anomaly detection & recommendations 
+- 🔹 [CRM Campaign Monitor](https://github.com/clairedebadts-cloud/clever-insights) – CleverTap intelligence dashboard · anomaly detection & recommendations 
 
 ---
 
