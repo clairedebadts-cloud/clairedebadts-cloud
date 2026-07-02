@@ -1,53 +1,45 @@
 <h1 align="center">Hi, I'm Claire 👋</h1>
-
-
 <p align="center">
-  <strong>Customer Experience & Insight Analyst</strong><br>
-  Behaviour • Communication • Data • Patterns
+  <strong>CRM & Lifecycle Marketing Specialist · Agentic AI × MarTech</strong><br>
+  Braze · HubSpot · SFMC · Python · Automation Design
 </p>
 
 ---
 
 ## 🚀 About Me
-
-Insight-driven CRM and Lifecycle specialist with 10+ years across international marketing, customer experience and behavioural analysis.  
-Currently expanding my analytical capabilities with Data Science & AI (Python, SQL, ML, NLP).
-
-I like transforming customer signals into clarity, and clarity into better journeys.
+CRM and lifecycle marketing specialist with 10+ years in international marketing, 6+ of them focused on CRM, lifecycle automation and MarTech.
+I design and build the automation itself, not just the strategy behind it — currently building **Lucerna**, an agentic GEO/brand intelligence platform, and expanding into Python, SQL and ML to bring that same rigour to how I build campaigns.
 
 ---
 
-## 🧠 What I’m Working On
-- 📊 **Customer Churn Insights** – behavioural drivers & retention signals  
-- 📝 **Customer Feedback NLP Themes** – extracting meaning from text  
-- 🔄 **Customer Journey Diagnostics** – mapping friction points  
-- ✍️ **Communication Clarity Tool** – readability & NLP scoring  
+## 🧠 What I'm Building
+- 🤖 **Lucerna** – agentic GEO/brand intelligence platform; multi-model AI-visibility auditing across ChatGPT, Gemini and Perplexity
+- 📊 **CRM Experiments** – lead scoring, journey diagnostics, disposable-email detection, campaign anomaly detection
+- 🏆 **Kaggle Competitions** – Playground Series work spanning churn, fairness-aware classification, and stellar object classification
 
 ---
 
 ## 🛠️ Tech & Tools
-
 <p align="center">
+  <img src="https://img.shields.io/badge/Braze-EA1E63?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Salesforce_Marketing_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-ffca28?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 ---
 
 ## 📌 Featured Repositories
-- 🔹 [Customer Churn in Telecom](https://github.com/clairedebadts-cloud/Customer-Churn-in-Telecom) – Kaggle S6E3 · churn prediction & behavioural segmentation
-- 🔹 [B2B Lead Scoring Analytics](https://github.com/clairedebadts-cloud/b2b-lead-scoring-analytics) – lead scoring model & pipeline analytics
-- 🔹 [Customer Journey Diagnostics](https://github.com/clairedebadts-cloud/customer-journey-diagnostics) – GA4 drop-off analysis & funnel diagnostics
-- 🔹 [Heart Disease Playground](https://github.com/clairedebadts-cloud/heart-disease-playground) – Kaggle · fairness-aware modeling, bias detection
-- 🔹 [CRM Campaign Monitor](https://github.com/clairedebadts-cloud/clever-insights) – CleverTap intelligence dashboard · anomaly detection & recommendations 
+- 🔹 [Lucerna](https://github.com/clairedebadts-cloud/lucerna) – agentic GEO/brand visibility platform, in build
+- 🔹 [CRM Experiments](https://github.com/clairedebadts-cloud/crm-experiments) – lead scoring, journey diagnostics, campaign anomaly detection
+- 🔹 [Kaggle Competitions](https://github.com/clairedebadts-cloud/kaggle-competitions) – churn, fairness-aware modelling, classification
+- 🔹 [Le Wagon Bootcamp](https://github.com/clairedebadts-cloud/le-wagon-bootcamp) – Data Science & AI, private repo, available on request
 
 ---
 
-## 🌐 Connect With Me
-
+## 🌐 Connect
 [LinkedIn](https://www.linkedin.com/in/claire-de-badts-a2105075/)
 
